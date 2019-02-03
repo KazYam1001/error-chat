@@ -1,5 +1,5 @@
 # README
-EXP試験を突破するため、ChatSpaceのエラー問題を作りました！！
+EXP試験を突破するため、ChatSpaceのエラー問題を作りました！！！
 
 ChatSpace作成後に解いてみてください
 
